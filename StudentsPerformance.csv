@@ -1,0 +1,1001 @@
+gender,session,parental level of education,finance,test preparation course,math score,reading score,writing score
+female,session B,bachelor's degree,sponsored,none,72,72,74
+female,session C,some college,sponsored,completed,69,90,88
+female,session B,master's degree,sponsored,none,90,95,93
+male,session A,associate's degree,self-financed,none,47,57,44
+male,session C,some college,sponsored,none,76,78,75
+female,session B,associate's degree,sponsored,none,71,83,78
+female,session B,some college,sponsored,completed,88,95,92
+male,session B,some college,self-financed,none,40,43,39
+male,session D,high school,self-financed,completed,64,64,67
+female,session B,high school,self-financed,none,38,60,50
+male,session C,associate's degree,sponsored,none,58,54,52
+male,session D,associate's degree,sponsored,none,40,52,43
+female,session B,high school,sponsored,none,65,81,73
+male,session A,some college,sponsored,completed,78,72,70
+female,session A,master's degree,sponsored,none,50,53,58
+female,session C,some high school,sponsored,none,69,75,78
+male,session C,high school,sponsored,none,88,89,86
+female,session B,some high school,self-financed,none,18,32,28
+male,session C,master's degree,self-financed,completed,46,42,46
+female,session C,associate's degree,self-financed,none,54,58,61
+male,session D,high school,sponsored,none,66,69,63
+female,session B,some college,self-financed,completed,65,75,70
+male,session D,some college,sponsored,none,44,54,53
+female,session C,some high school,sponsored,none,69,73,73
+male,session D,bachelor's degree,self-financed,completed,74,71,80
+male,session A,master's degree,self-financed,none,73,74,72
+male,session B,some college,sponsored,none,69,54,55
+female,session C,bachelor's degree,sponsored,none,67,69,75
+male,session C,high school,sponsored,none,70,70,65
+female,session D,master's degree,sponsored,none,62,70,75
+female,session D,some college,sponsored,none,69,74,74
+female,session B,some college,sponsored,none,63,65,61
+female,session E,master's degree,self-financed,none,56,72,65
+male,session D,some college,sponsored,none,40,42,38
+male,session E,some college,sponsored,none,97,87,82
+male,session E,associate's degree,sponsored,completed,81,81,79
+female,session D,associate's degree,sponsored,none,74,81,83
+female,session D,some high school,self-financed,none,50,64,59
+female,session D,associate's degree,self-financed,completed,75,90,88
+male,session B,associate's degree,self-financed,none,57,56,57
+male,session C,associate's degree,self-financed,none,55,61,54
+female,session C,associate's degree,sponsored,none,58,73,68
+female,session B,associate's degree,sponsored,none,53,58,65
+male,session B,some college,self-financed,completed,59,65,66
+female,session E,associate's degree,self-financed,none,50,56,54
+male,session B,associate's degree,sponsored,none,65,54,57
+female,session A,associate's degree,sponsored,completed,55,65,62
+female,session C,high school,sponsored,none,66,71,76
+female,session D,associate's degree,self-financed,completed,57,74,76
+male,session C,high school,sponsored,completed,82,84,82
+male,session E,some college,sponsored,none,53,55,48
+male,session E,associate's degree,self-financed,completed,77,69,68
+male,session C,some college,sponsored,none,53,44,42
+male,session D,high school,sponsored,none,88,78,75
+female,session C,some high school,self-financed,completed,71,84,87
+female,session C,high school,self-financed,none,33,41,43
+female,session E,associate's degree,sponsored,completed,82,85,86
+male,session D,associate's degree,sponsored,none,52,55,49
+male,session D,some college,sponsored,completed,58,59,58
+female,session C,some high school,self-financed,none,0,17,10
+male,session E,bachelor's degree,self-financed,completed,79,74,72
+male,session A,some high school,self-financed,none,39,39,34
+male,session A,associate's degree,self-financed,none,62,61,55
+female,session C,associate's degree,sponsored,none,69,80,71
+female,session D,some high school,sponsored,none,59,58,59
+male,session B,some high school,sponsored,none,67,64,61
+male,session D,some high school,self-financed,none,45,37,37
+female,session C,some college,sponsored,none,60,72,74
+male,session B,associate's degree,self-financed,none,61,58,56
+female,session C,associate's degree,sponsored,none,39,64,57
+female,session D,some college,self-financed,completed,58,63,73
+male,session D,some college,sponsored,completed,63,55,63
+female,session A,associate's degree,self-financed,none,41,51,48
+male,session C,some high school,self-financed,none,61,57,56
+male,session C,some high school,sponsored,none,49,49,41
+male,session B,associate's degree,self-financed,none,44,41,38
+male,session E,some high school,sponsored,none,30,26,22
+male,session A,bachelor's degree,sponsored,completed,80,78,81
+female,session D,some high school,sponsored,completed,61,74,72
+female,session E,master's degree,sponsored,none,62,68,68
+female,session B,associate's degree,sponsored,none,47,49,50
+male,session B,high school,self-financed,none,49,45,45
+male,session A,some college,self-financed,completed,50,47,54
+male,session E,associate's degree,sponsored,none,72,64,63
+male,session D,high school,self-financed,none,42,39,34
+female,session C,some college,sponsored,none,73,80,82
+female,session C,some college,self-financed,none,76,83,88
+female,session D,associate's degree,sponsored,none,71,71,74
+female,session A,some college,sponsored,none,58,70,67
+female,session D,some high school,sponsored,none,73,86,82
+female,session C,bachelor's degree,sponsored,none,65,72,74
+male,session C,high school,self-financed,none,27,34,36
+male,session C,high school,sponsored,none,71,79,71
+male,session C,associate's degree,self-financed,completed,43,45,50
+female,session B,some college,sponsored,none,79,86,92
+male,session C,associate's degree,self-financed,completed,78,81,82
+male,session B,some high school,sponsored,completed,65,66,62
+female,session E,some college,sponsored,completed,63,72,70
+female,session D,some college,self-financed,none,58,67,62
+female,session D,bachelor's degree,sponsored,none,65,67,62
+male,session B,some college,sponsored,none,79,67,67
+male,session D,bachelor's degree,sponsored,completed,68,74,74
+female,session D,associate's degree,sponsored,none,85,91,89
+male,session B,high school,sponsored,completed,60,44,47
+male,session C,some college,sponsored,completed,98,86,90
+female,session C,some college,sponsored,none,58,67,72
+female,session D,master's degree,sponsored,none,87,100,100
+male,session E,associate's degree,sponsored,completed,66,63,64
+female,session B,associate's degree,self-financed,none,52,76,70
+female,session B,some high school,sponsored,none,70,64,72
+female,session D,associate's degree,self-financed,completed,77,89,98
+male,session C,high school,sponsored,none,62,55,49
+male,session A,associate's degree,sponsored,none,54,53,47
+female,session D,some college,sponsored,none,51,58,54
+female,session E,bachelor's degree,sponsored,completed,99,100,100
+male,session C,high school,sponsored,none,84,77,74
+female,session B,bachelor's degree,self-financed,none,75,85,82
+female,session D,bachelor's degree,sponsored,none,78,82,79
+female,session D,some high school,sponsored,none,51,63,61
+female,session C,some college,sponsored,none,55,69,65
+female,session C,bachelor's degree,sponsored,completed,79,92,89
+male,session B,associate's degree,sponsored,completed,91,89,92
+female,session C,some college,sponsored,completed,88,93,93
+male,session D,high school,self-financed,none,63,57,56
+male,session E,some college,sponsored,none,83,80,73
+female,session B,high school,sponsored,none,87,95,86
+male,session B,some high school,sponsored,none,72,68,67
+male,session D,some college,sponsored,completed,65,77,74
+male,session D,master's degree,sponsored,none,82,82,74
+female,session A,bachelor's degree,sponsored,none,51,49,51
+male,session D,master's degree,sponsored,none,89,84,82
+male,session C,some high school,self-financed,completed,53,37,40
+male,session E,some college,self-financed,completed,87,74,70
+female,session C,some college,sponsored,completed,75,81,84
+male,session D,bachelor's degree,self-financed,completed,74,79,75
+male,session C,bachelor's degree,sponsored,none,58,55,48
+male,session B,some high school,sponsored,completed,51,54,41
+male,session E,high school,sponsored,none,70,55,56
+female,session C,associate's degree,sponsored,none,59,66,67
+male,session D,some college,sponsored,completed,71,61,69
+female,session D,some high school,sponsored,none,76,72,71
+female,session C,some college,self-financed,none,59,62,64
+female,session E,some college,self-financed,completed,42,55,54
+male,session A,high school,sponsored,none,57,43,47
+male,session D,some college,sponsored,none,88,73,78
+female,session C,some college,self-financed,none,22,39,33
+male,session B,some high school,sponsored,none,88,84,75
+male,session C,associate's degree,self-financed,none,73,68,66
+female,session D,bachelor's degree,sponsored,completed,68,75,81
+male,session E,associate's degree,self-financed,completed,100,100,93
+male,session A,some high school,sponsored,completed,62,67,69
+male,session A,bachelor's degree,sponsored,none,77,67,68
+female,session B,associate's degree,sponsored,completed,59,70,66
+male,session D,bachelor's degree,sponsored,none,54,49,47
+male,session D,some high school,sponsored,none,62,67,61
+female,session C,some college,sponsored,completed,70,89,88
+female,session E,high school,self-financed,completed,66,74,78
+male,session B,some college,self-financed,none,60,60,60
+female,session B,associate's degree,sponsored,completed,61,86,87
+male,session D,associate's degree,self-financed,none,66,62,64
+male,session B,associate's degree,self-financed,completed,82,78,74
+female,session E,some college,self-financed,completed,75,88,85
+male,session B,master's degree,self-financed,none,49,53,52
+male,session C,high school,sponsored,none,52,53,49
+female,session E,master's degree,sponsored,none,81,92,91
+female,session C,bachelor's degree,sponsored,completed,96,100,100
+male,session C,high school,self-financed,completed,53,51,51
+female,session B,master's degree,self-financed,completed,58,76,78
+female,session B,high school,sponsored,completed,68,83,78
+female,session C,some college,self-financed,completed,67,75,70
+male,session A,high school,sponsored,completed,72,73,74
+male,session E,some high school,sponsored,none,94,88,78
+female,session D,some college,sponsored,none,79,86,81
+female,session C,associate's degree,sponsored,none,63,67,70
+female,session C,bachelor's degree,self-financed,completed,43,51,54
+female,session C,master's degree,sponsored,completed,81,91,87
+female,session B,high school,self-financed,completed,46,54,58
+female,session C,associate's degree,sponsored,completed,71,77,77
+female,session B,master's degree,self-financed,completed,52,70,62
+female,session D,some high school,sponsored,completed,97,100,100
+male,session C,master's degree,self-financed,completed,62,68,75
+female,session C,some college,self-financed,none,46,64,66
+female,session E,high school,sponsored,none,50,50,47
+female,session D,associate's degree,sponsored,none,65,69,70
+male,session C,some high school,self-financed,completed,45,52,49
+male,session C,associate's degree,self-financed,completed,65,67,65
+male,session E,high school,sponsored,none,80,76,65
+male,session D,some high school,sponsored,completed,62,66,68
+male,session B,some high school,self-financed,none,48,52,45
+female,session C,bachelor's degree,sponsored,none,77,88,87
+female,session E,associate's degree,sponsored,none,66,65,69
+male,session D,some college,sponsored,completed,76,83,79
+female,session B,some high school,sponsored,none,62,64,66
+male,session D,some college,sponsored,completed,77,62,62
+female,session C,master's degree,sponsored,completed,69,84,85
+male,session D,associate's degree,sponsored,none,61,55,52
+male,session C,some high school,self-financed,completed,59,69,65
+male,session E,high school,self-financed,none,55,56,51
+female,session B,some college,self-financed,none,45,53,55
+female,session B,bachelor's degree,self-financed,none,78,79,76
+female,session C,associate's degree,sponsored,completed,67,84,86
+female,session D,some college,self-financed,none,65,81,77
+male,session C,associate's degree,sponsored,none,69,77,69
+female,session B,associate's degree,sponsored,none,57,69,68
+male,session C,some college,sponsored,none,59,41,42
+male,session D,some high school,sponsored,completed,74,71,78
+male,session E,bachelor's degree,sponsored,none,82,62,62
+male,session E,high school,sponsored,completed,81,80,76
+female,session B,some college,self-financed,none,74,81,76
+female,session B,some college,self-financed,none,58,61,66
+male,session D,some high school,self-financed,completed,80,79,79
+male,session C,some college,self-financed,none,35,28,27
+female,session C,high school,self-financed,none,42,62,60
+male,session C,associate's degree,self-financed,completed,60,51,56
+male,session E,high school,sponsored,completed,87,91,81
+male,session B,some high school,sponsored,completed,84,83,75
+female,session E,associate's degree,self-financed,completed,83,86,88
+female,session C,high school,self-financed,none,34,42,39
+male,session B,high school,self-financed,none,66,77,70
+male,session B,some high school,sponsored,completed,61,56,56
+female,session D,high school,sponsored,completed,56,68,74
+male,session B,associate's degree,sponsored,none,87,85,73
+female,session C,some high school,self-financed,none,55,65,62
+male,session D,some high school,sponsored,none,86,80,75
+female,session B,associate's degree,sponsored,completed,52,66,73
+female,session E,master's degree,self-financed,none,45,56,54
+female,session C,some college,sponsored,none,72,72,71
+male,session D,high school,sponsored,none,57,50,54
+male,session A,some high school,self-financed,none,68,72,64
+female,session C,some college,sponsored,completed,88,95,94
+male,session D,some college,sponsored,none,76,64,66
+male,session C,associate's degree,sponsored,none,46,43,42
+female,session B,bachelor's degree,sponsored,none,67,86,83
+male,session E,some high school,sponsored,none,92,87,78
+male,session C,bachelor's degree,sponsored,completed,83,82,84
+male,session D,associate's degree,sponsored,none,80,75,77
+male,session D,bachelor's degree,self-financed,none,63,66,67
+female,session D,some high school,sponsored,completed,64,60,74
+male,session B,some college,sponsored,none,54,52,51
+male,session C,associate's degree,sponsored,none,84,80,80
+male,session D,high school,self-financed,completed,73,68,66
+female,session E,bachelor's degree,sponsored,none,80,83,83
+female,session D,high school,sponsored,none,56,52,55
+male,session E,some college,sponsored,none,59,51,43
+male,session D,some high school,sponsored,none,75,74,69
+male,session C,associate's degree,sponsored,none,85,76,71
+male,session E,associate's degree,sponsored,none,89,76,74
+female,session B,high school,sponsored,completed,58,70,68
+female,session B,high school,sponsored,none,65,64,62
+male,session C,high school,sponsored,none,68,60,53
+male,session A,some high school,sponsored,completed,47,49,49
+female,session D,some college,self-financed,none,71,83,83
+female,session B,some high school,sponsored,completed,60,70,70
+male,session D,master's degree,sponsored,none,80,80,72
+male,session D,high school,sponsored,none,54,52,52
+female,session E,some college,sponsored,none,62,73,70
+female,session C,associate's degree,self-financed,none,64,73,68
+male,session C,associate's degree,sponsored,completed,78,77,77
+female,session B,some college,sponsored,none,70,75,78
+female,session C,master's degree,self-financed,completed,65,81,81
+female,session C,some high school,self-financed,completed,64,79,77
+male,session C,some college,sponsored,completed,79,79,78
+female,session C,some high school,self-financed,none,44,50,51
+female,session E,high school,sponsored,none,99,93,90
+male,session D,high school,sponsored,none,76,73,68
+male,session D,some high school,self-financed,none,59,42,41
+female,session C,bachelor's degree,sponsored,none,63,75,81
+female,session D,high school,sponsored,none,69,72,77
+female,session D,associate's degree,sponsored,completed,88,92,95
+female,session E,some college,self-financed,none,71,76,70
+male,session C,bachelor's degree,sponsored,none,69,63,61
+male,session C,some college,sponsored,none,58,49,42
+female,session D,associate's degree,self-financed,none,47,53,58
+female,session D,some college,sponsored,none,65,70,71
+male,session B,some college,sponsored,completed,88,85,76
+male,session C,bachelor's degree,sponsored,none,83,78,73
+female,session C,some high school,sponsored,completed,85,92,93
+female,session E,high school,sponsored,completed,59,63,75
+female,session C,some high school,self-financed,none,65,86,80
+male,session B,bachelor's degree,self-financed,none,73,56,57
+male,session D,high school,sponsored,none,53,52,42
+male,session D,high school,sponsored,none,45,48,46
+female,session D,bachelor's degree,self-financed,none,73,79,84
+female,session D,some college,self-financed,completed,70,78,78
+female,session B,some high school,sponsored,none,37,46,46
+male,session B,associate's degree,sponsored,completed,81,82,82
+male,session E,associate's degree,sponsored,completed,97,82,88
+female,session B,some high school,sponsored,none,67,89,82
+male,session B,bachelor's degree,self-financed,none,88,75,76
+male,session E,some high school,sponsored,completed,77,76,77
+male,session C,associate's degree,sponsored,none,76,70,68
+male,session D,some high school,sponsored,none,86,73,70
+male,session C,some high school,sponsored,completed,63,60,57
+female,session E,bachelor's degree,sponsored,none,65,73,75
+male,session D,high school,self-financed,completed,78,77,80
+male,session B,associate's degree,self-financed,none,67,62,60
+male,session A,some high school,sponsored,completed,46,41,43
+male,session E,associate's degree,sponsored,completed,71,74,68
+male,session C,high school,self-financed,completed,40,46,50
+male,session D,associate's degree,self-financed,none,90,87,75
+male,session A,some college,self-financed,completed,81,78,81
+male,session D,some high school,self-financed,none,56,54,52
+female,session C,associate's degree,sponsored,completed,67,84,81
+male,session B,associate's degree,sponsored,none,80,76,64
+female,session C,associate's degree,sponsored,completed,74,75,83
+male,session A,some college,sponsored,none,69,67,69
+male,session E,some college,sponsored,completed,99,87,81
+male,session C,some high school,sponsored,none,51,52,44
+female,session B,associate's degree,self-financed,none,53,71,67
+female,session D,high school,self-financed,none,49,57,52
+female,session B,associate's degree,sponsored,none,73,76,80
+male,session B,bachelor's degree,sponsored,none,66,60,57
+male,session D,bachelor's degree,sponsored,completed,67,61,68
+female,session C,associate's degree,self-financed,completed,68,67,69
+female,session C,bachelor's degree,sponsored,completed,59,64,75
+male,session C,high school,sponsored,none,71,66,65
+female,session D,master's degree,sponsored,completed,77,82,91
+male,session C,associate's degree,sponsored,none,83,72,78
+male,session B,bachelor's degree,sponsored,none,63,71,69
+female,session D,associate's degree,self-financed,none,56,65,63
+female,session C,high school,self-financed,completed,67,79,84
+female,session E,high school,sponsored,none,75,86,79
+female,session C,some college,sponsored,none,71,81,80
+female,session C,some high school,self-financed,none,43,53,53
+female,session C,high school,self-financed,none,41,46,43
+female,session C,some college,sponsored,none,82,90,94
+male,session C,some college,sponsored,none,61,61,62
+male,session A,some college,self-financed,none,28,23,19
+male,session C,associate's degree,sponsored,completed,82,75,77
+female,session B,some high school,sponsored,none,41,55,51
+male,session C,high school,sponsored,none,71,60,61
+male,session C,associate's degree,sponsored,none,47,37,35
+male,session E,associate's degree,sponsored,completed,62,56,53
+male,session B,associate's degree,sponsored,none,90,78,81
+female,session C,bachelor's degree,sponsored,none,83,93,95
+female,session B,some college,self-financed,none,61,68,66
+male,session D,some high school,sponsored,completed,76,70,69
+male,session C,associate's degree,sponsored,none,49,51,43
+female,session B,some high school,self-financed,none,24,38,27
+female,session D,some high school,self-financed,completed,35,55,60
+male,session C,high school,self-financed,none,58,61,52
+female,session C,high school,sponsored,none,61,73,63
+female,session B,high school,sponsored,completed,69,76,74
+male,session D,associate's degree,sponsored,completed,67,72,67
+male,session D,some college,sponsored,none,79,73,67
+female,session C,high school,sponsored,none,72,80,75
+male,session B,some college,sponsored,none,62,61,57
+female,session C,bachelor's degree,sponsored,completed,77,94,95
+male,session D,high school,self-financed,none,75,74,66
+male,session E,associate's degree,sponsored,none,87,74,76
+female,session B,bachelor's degree,sponsored,none,52,65,69
+male,session E,some college,sponsored,none,66,57,52
+female,session C,some college,sponsored,completed,63,78,80
+female,session C,associate's degree,sponsored,none,46,58,57
+female,session C,some college,sponsored,none,59,71,70
+female,session B,bachelor's degree,sponsored,none,61,72,70
+male,session A,associate's degree,sponsored,none,63,61,61
+female,session C,some college,self-financed,completed,42,66,69
+male,session D,some college,self-financed,none,59,62,61
+female,session D,some college,sponsored,none,80,90,89
+female,session B,high school,sponsored,none,58,62,59
+male,session B,some high school,sponsored,completed,85,84,78
+female,session C,some college,sponsored,none,52,58,58
+female,session D,some high school,self-financed,none,27,34,32
+male,session C,some college,sponsored,none,59,60,58
+male,session A,bachelor's degree,self-financed,completed,49,58,60
+male,session C,high school,sponsored,completed,69,58,53
+male,session C,bachelor's degree,self-financed,none,61,66,61
+female,session A,some high school,self-financed,none,44,64,58
+female,session D,some high school,sponsored,none,73,84,85
+male,session E,some college,sponsored,none,84,77,71
+female,session C,some college,self-financed,completed,45,73,70
+male,session D,some high school,sponsored,none,74,74,72
+female,session D,some college,sponsored,completed,82,97,96
+female,session D,bachelor's degree,sponsored,none,59,70,73
+male,session E,associate's degree,self-financed,none,46,43,41
+female,session D,some high school,sponsored,none,80,90,82
+female,session D,master's degree,self-financed,completed,85,95,100
+female,session A,some high school,sponsored,none,71,83,77
+male,session A,bachelor's degree,sponsored,none,66,64,62
+female,session B,associate's degree,sponsored,none,80,86,83
+male,session C,associate's degree,sponsored,completed,87,100,95
+male,session C,master's degree,self-financed,none,79,81,71
+female,session E,some high school,self-financed,none,38,49,45
+female,session A,some high school,self-financed,none,38,43,43
+female,session E,some college,sponsored,none,67,76,75
+female,session E,bachelor's degree,sponsored,none,64,73,70
+female,session C,associate's degree,self-financed,none,57,78,67
+female,session D,high school,sponsored,none,62,64,64
+male,session D,master's degree,sponsored,none,73,70,75
+male,session E,some high school,self-financed,completed,73,67,59
+female,session D,some college,sponsored,none,77,68,77
+male,session E,some college,sponsored,none,76,67,67
+male,session C,associate's degree,sponsored,completed,57,54,56
+female,session C,some high school,sponsored,completed,65,74,77
+male,session A,high school,self-financed,none,48,45,41
+female,session B,high school,self-financed,none,50,67,63
+female,session C,associate's degree,sponsored,none,85,89,95
+male,session B,some high school,sponsored,none,74,63,57
+male,session D,some high school,sponsored,none,60,59,54
+female,session C,some high school,sponsored,completed,59,54,67
+male,session A,some college,sponsored,none,53,43,43
+female,session A,some college,self-financed,none,49,65,55
+female,session D,high school,sponsored,completed,88,99,100
+female,session C,high school,sponsored,none,54,59,62
+female,session C,some high school,sponsored,none,63,73,68
+male,session B,associate's degree,sponsored,completed,65,65,63
+female,session B,associate's degree,sponsored,none,82,80,77
+female,session D,high school,self-financed,completed,52,57,56
+male,session D,associate's degree,sponsored,completed,87,84,85
+female,session D,master's degree,sponsored,completed,70,71,74
+male,session E,some college,sponsored,completed,84,83,78
+male,session D,associate's degree,sponsored,none,71,66,60
+male,session B,some high school,sponsored,completed,63,67,67
+female,session C,bachelor's degree,self-financed,completed,51,72,79
+male,session E,high school,sponsored,none,84,73,69
+male,session C,bachelor's degree,sponsored,completed,71,74,68
+male,session C,associate's degree,sponsored,none,74,73,67
+male,session D,some college,sponsored,none,68,59,62
+male,session E,high school,self-financed,completed,57,56,54
+female,session C,associate's degree,self-financed,completed,82,93,93
+female,session D,high school,sponsored,completed,57,58,64
+female,session D,master's degree,self-financed,completed,47,58,67
+female,session A,some high school,sponsored,completed,59,85,80
+male,session B,some college,self-financed,none,41,39,34
+female,session C,some college,self-financed,none,62,67,62
+male,session C,bachelor's degree,sponsored,none,86,83,86
+male,session C,some high school,self-financed,none,69,71,65
+male,session A,some high school,self-financed,none,65,59,53
+male,session C,some high school,self-financed,none,68,63,54
+male,session C,associate's degree,self-financed,none,64,66,59
+female,session C,high school,sponsored,none,61,72,70
+male,session C,high school,sponsored,none,61,56,55
+female,session A,some high school,self-financed,none,47,59,50
+male,session C,some high school,sponsored,none,73,66,66
+male,session C,some college,self-financed,completed,50,48,53
+male,session D,associate's degree,sponsored,none,75,68,64
+male,session D,associate's degree,self-financed,none,75,66,73
+male,session C,high school,sponsored,none,70,56,51
+male,session D,some high school,sponsored,completed,89,88,82
+female,session C,some college,sponsored,completed,67,81,79
+female,session D,high school,sponsored,none,78,81,80
+female,session A,some high school,self-financed,none,59,73,69
+female,session B,associate's degree,sponsored,none,73,83,76
+male,session A,some high school,self-financed,none,79,82,73
+female,session C,some high school,sponsored,completed,67,74,77
+male,session D,some college,self-financed,none,69,66,60
+male,session C,high school,sponsored,completed,86,81,80
+male,session B,high school,sponsored,none,47,46,42
+male,session B,associate's degree,sponsored,none,81,73,72
+female,session C,some college,self-financed,completed,64,85,85
+female,session E,some college,sponsored,none,100,92,97
+female,session C,associate's degree,self-financed,none,65,77,74
+male,session C,some college,self-financed,none,65,58,49
+female,session C,associate's degree,self-financed,none,53,61,62
+male,session C,bachelor's degree,self-financed,none,37,56,47
+female,session D,bachelor's degree,sponsored,none,79,89,89
+male,session D,associate's degree,self-financed,none,53,54,48
+female,session E,bachelor's degree,sponsored,none,100,100,100
+male,session B,high school,sponsored,completed,72,65,68
+male,session C,bachelor's degree,self-financed,none,53,58,55
+male,session B,some college,self-financed,none,54,54,45
+female,session E,some college,sponsored,none,71,70,76
+female,session C,some college,self-financed,none,77,90,91
+male,session A,bachelor's degree,sponsored,completed,75,58,62
+female,session C,some college,sponsored,none,84,87,91
+female,session D,associate's degree,self-financed,none,26,31,38
+male,session A,high school,self-financed,completed,72,67,65
+female,session A,high school,self-financed,completed,77,88,85
+male,session C,some college,sponsored,none,91,74,76
+female,session C,associate's degree,sponsored,completed,83,85,90
+female,session C,high school,sponsored,none,63,69,74
+female,session C,associate's degree,sponsored,completed,68,86,84
+female,session D,some high school,sponsored,none,59,67,61
+female,session B,associate's degree,sponsored,completed,90,90,91
+female,session D,bachelor's degree,sponsored,completed,71,76,83
+male,session E,bachelor's degree,sponsored,completed,76,62,66
+male,session D,associate's degree,sponsored,none,80,68,72
+female,session D,master's degree,sponsored,none,55,64,70
+male,session E,associate's degree,sponsored,none,76,71,67
+male,session B,high school,sponsored,completed,73,71,68
+female,session D,associate's degree,self-financed,none,52,59,56
+male,session C,some college,self-financed,none,68,68,61
+male,session A,high school,sponsored,none,59,52,46
+female,session B,associate's degree,sponsored,none,49,52,54
+male,session C,high school,sponsored,none,70,74,71
+male,session D,some college,self-financed,none,61,47,56
+female,session C,associate's degree,self-financed,none,60,75,74
+male,session B,some high school,sponsored,completed,64,53,57
+male,session A,associate's degree,self-financed,completed,79,82,82
+female,session A,associate's degree,self-financed,none,65,85,76
+female,session C,associate's degree,sponsored,none,64,64,70
+female,session C,some college,sponsored,none,83,83,90
+female,session C,bachelor's degree,sponsored,none,81,88,90
+female,session B,high school,sponsored,none,54,64,68
+male,session D,high school,sponsored,completed,68,64,66
+female,session C,some college,sponsored,none,54,48,52
+female,session D,some college,self-financed,completed,59,78,76
+female,session B,some high school,sponsored,none,66,69,68
+male,session E,some college,sponsored,none,76,71,72
+female,session D,master's degree,sponsored,none,74,79,82
+female,session B,associate's degree,sponsored,completed,94,87,92
+male,session C,some college,self-financed,none,63,61,54
+female,session E,associate's degree,sponsored,completed,95,89,92
+female,session D,master's degree,self-financed,none,40,59,54
+female,session B,some high school,sponsored,none,82,82,80
+male,session A,high school,sponsored,none,68,70,66
+male,session B,bachelor's degree,self-financed,none,55,59,54
+male,session C,master's degree,sponsored,none,79,78,77
+female,session C,bachelor's degree,sponsored,none,86,92,87
+male,session D,some college,sponsored,none,76,71,73
+male,session A,some high school,sponsored,none,64,50,43
+male,session D,some high school,self-financed,none,62,49,52
+female,session B,some high school,sponsored,completed,54,61,62
+female,session B,master's degree,self-financed,completed,77,97,94
+female,session C,some high school,sponsored,completed,76,87,85
+female,session D,some college,sponsored,none,74,89,84
+female,session E,some college,sponsored,completed,66,74,73
+female,session D,some high school,sponsored,completed,66,78,78
+female,session B,high school,self-financed,completed,67,78,79
+male,session D,some college,sponsored,none,71,49,52
+female,session C,associate's degree,sponsored,none,91,86,84
+male,session D,bachelor's degree,sponsored,none,69,58,57
+male,session C,master's degree,self-financed,none,54,59,50
+male,session C,high school,sponsored,completed,53,52,49
+male,session E,some college,sponsored,none,68,60,59
+male,session C,some high school,self-financed,completed,56,61,60
+female,session C,high school,self-financed,none,36,53,43
+female,session D,bachelor's degree,self-financed,none,29,41,47
+female,session C,associate's degree,sponsored,none,62,74,70
+female,session C,associate's degree,sponsored,completed,68,67,73
+female,session C,some high school,sponsored,none,47,54,53
+male,session E,associate's degree,sponsored,completed,62,61,58
+female,session E,associate's degree,sponsored,completed,79,88,94
+male,session B,high school,sponsored,completed,73,69,68
+female,session C,bachelor's degree,self-financed,completed,66,83,83
+male,session C,associate's degree,sponsored,completed,51,60,58
+female,session D,high school,sponsored,none,51,66,62
+male,session E,bachelor's degree,sponsored,completed,85,66,71
+male,session A,associate's degree,sponsored,completed,97,92,86
+male,session C,high school,sponsored,completed,75,69,68
+male,session D,associate's degree,self-financed,completed,79,82,80
+female,session C,associate's degree,sponsored,none,81,77,79
+female,session D,associate's degree,sponsored,none,82,95,89
+female,session D,master's degree,sponsored,none,64,63,66
+male,session E,some high school,self-financed,completed,78,83,80
+female,session A,some high school,sponsored,completed,92,100,97
+male,session C,high school,sponsored,completed,72,67,64
+female,session C,high school,self-financed,none,62,67,64
+male,session C,master's degree,sponsored,none,79,72,69
+male,session C,some high school,self-financed,none,79,76,65
+male,session B,bachelor's degree,self-financed,completed,87,90,88
+female,session B,associate's degree,sponsored,none,40,48,50
+male,session D,some college,self-financed,none,77,62,64
+male,session E,associate's degree,sponsored,none,53,45,40
+female,session C,some college,self-financed,none,32,39,33
+female,session C,associate's degree,sponsored,completed,55,72,79
+male,session C,master's degree,self-financed,none,61,67,66
+female,session B,associate's degree,self-financed,none,53,70,70
+male,session D,some high school,sponsored,none,73,66,62
+female,session D,some college,sponsored,completed,74,75,79
+female,session C,some college,sponsored,none,63,74,74
+male,session C,bachelor's degree,sponsored,completed,96,90,92
+female,session D,some college,self-financed,completed,63,80,80
+male,session B,bachelor's degree,self-financed,none,48,51,46
+male,session B,associate's degree,sponsored,none,48,43,45
+female,session E,bachelor's degree,self-financed,completed,92,100,100
+female,session D,master's degree,self-financed,completed,61,71,78
+male,session B,high school,self-financed,none,63,48,47
+male,session D,bachelor's degree,self-financed,none,68,68,67
+male,session B,some college,sponsored,completed,71,75,70
+male,session A,bachelor's degree,sponsored,none,91,96,92
+female,session C,some college,sponsored,none,53,62,56
+female,session C,high school,self-financed,completed,50,66,64
+female,session E,high school,sponsored,none,74,81,71
+male,session A,associate's degree,self-financed,completed,40,55,53
+male,session A,some college,sponsored,completed,61,51,52
+female,session B,high school,sponsored,none,81,91,89
+female,session B,some college,self-financed,completed,48,56,58
+female,session D,master's degree,sponsored,none,53,61,68
+female,session D,some high school,sponsored,none,81,97,96
+female,session E,some high school,sponsored,none,77,79,80
+female,session D,bachelor's degree,self-financed,none,63,73,78
+female,session D,associate's degree,sponsored,completed,73,75,80
+female,session D,some college,sponsored,none,69,77,77
+female,session C,associate's degree,sponsored,none,65,76,76
+female,session A,high school,sponsored,none,55,73,73
+female,session C,bachelor's degree,self-financed,none,44,63,62
+female,session C,some college,sponsored,none,54,64,65
+female,session A,some high school,sponsored,none,48,66,65
+male,session C,some college,self-financed,none,58,57,54
+male,session A,some high school,sponsored,none,71,62,50
+male,session E,bachelor's degree,sponsored,none,68,68,64
+female,session E,high school,sponsored,none,74,76,73
+female,session C,bachelor's degree,sponsored,completed,92,100,99
+female,session C,bachelor's degree,sponsored,completed,56,79,72
+male,session B,high school,self-financed,none,30,24,15
+male,session A,some high school,sponsored,none,53,54,48
+female,session D,high school,sponsored,none,69,77,73
+female,session D,some high school,sponsored,none,65,82,81
+female,session D,master's degree,sponsored,none,54,60,63
+female,session C,high school,sponsored,none,29,29,30
+female,session E,some college,sponsored,none,76,78,80
+male,session D,high school,self-financed,none,60,57,51
+male,session D,master's degree,self-financed,completed,84,89,90
+male,session C,some high school,sponsored,none,75,72,62
+female,session C,associate's degree,sponsored,none,85,84,82
+female,session C,master's degree,self-financed,none,40,58,54
+female,session E,some college,sponsored,none,61,64,62
+female,session B,associate's degree,sponsored,none,58,63,65
+male,session D,some college,self-financed,completed,69,60,63
+female,session C,some college,sponsored,none,58,59,66
+male,session C,bachelor's degree,sponsored,completed,94,90,91
+female,session C,associate's degree,sponsored,none,65,77,74
+female,session A,associate's degree,sponsored,none,82,93,93
+female,session C,high school,sponsored,none,60,68,72
+female,session E,bachelor's degree,sponsored,none,37,45,38
+male,session D,bachelor's degree,sponsored,none,88,78,83
+male,session D,master's degree,sponsored,none,95,81,84
+male,session C,associate's degree,self-financed,completed,65,73,68
+female,session C,high school,self-financed,none,35,61,54
+male,session B,bachelor's degree,self-financed,none,62,63,56
+male,session C,high school,self-financed,completed,58,51,52
+male,session A,some college,sponsored,completed,100,96,86
+female,session E,bachelor's degree,self-financed,none,61,58,62
+male,session D,some college,sponsored,completed,100,97,99
+male,session B,associate's degree,self-financed,completed,69,70,63
+male,session D,associate's degree,sponsored,none,61,48,46
+male,session D,some college,self-financed,none,49,57,46
+female,session C,some high school,sponsored,completed,44,51,55
+male,session D,some college,sponsored,none,67,64,70
+male,session B,high school,sponsored,none,79,60,65
+female,session B,bachelor's degree,sponsored,completed,66,74,81
+female,session C,high school,sponsored,none,75,88,85
+male,session D,some high school,sponsored,none,84,84,80
+male,session A,high school,sponsored,none,71,74,64
+female,session B,high school,self-financed,completed,67,80,81
+female,session D,some high school,sponsored,completed,80,92,88
+male,session E,some college,sponsored,none,86,76,74
+female,session D,associate's degree,sponsored,none,76,74,73
+male,session D,high school,sponsored,none,41,52,51
+female,session D,associate's degree,self-financed,completed,74,88,90
+female,session B,some high school,self-financed,none,72,81,79
+female,session E,high school,sponsored,completed,74,79,80
+male,session B,high school,sponsored,none,70,65,60
+female,session B,bachelor's degree,sponsored,completed,65,81,81
+female,session D,associate's degree,sponsored,none,59,70,65
+female,session E,high school,self-financed,none,64,62,68
+female,session B,high school,sponsored,none,50,53,55
+female,session D,some college,sponsored,completed,69,79,81
+male,session C,some high school,self-financed,completed,51,56,53
+female,session A,high school,sponsored,completed,68,80,76
+female,session D,some college,sponsored,completed,85,86,98
+female,session A,associate's degree,sponsored,completed,65,70,74
+female,session B,some high school,sponsored,none,73,79,79
+female,session B,some college,sponsored,none,62,67,67
+male,session C,associate's degree,self-financed,none,77,67,64
+male,session D,some high school,sponsored,none,69,66,61
+female,session D,associate's degree,self-financed,none,43,60,58
+male,session D,associate's degree,sponsored,none,90,87,85
+male,session C,some college,self-financed,none,74,77,73
+male,session C,some high school,sponsored,none,73,66,63
+female,session D,some college,self-financed,none,55,71,69
+female,session C,high school,sponsored,none,65,69,67
+male,session D,associate's degree,sponsored,none,80,63,63
+female,session C,some high school,self-financed,completed,50,60,60
+female,session C,some college,self-financed,completed,63,73,71
+female,session B,bachelor's degree,self-financed,none,77,85,87
+male,session C,some college,sponsored,none,73,74,61
+male,session D,associate's degree,sponsored,completed,81,72,77
+female,session C,high school,self-financed,none,66,76,68
+male,session D,associate's degree,self-financed,none,52,57,50
+female,session C,some college,sponsored,none,69,78,76
+female,session C,associate's degree,sponsored,completed,65,84,84
+female,session D,high school,sponsored,completed,69,77,78
+female,session B,some college,sponsored,completed,50,64,66
+female,session E,some college,sponsored,completed,73,78,76
+female,session C,some high school,sponsored,completed,70,82,76
+male,session D,associate's degree,self-financed,none,81,75,78
+male,session D,some college,self-financed,none,63,61,60
+female,session D,high school,sponsored,none,67,72,74
+male,session B,high school,sponsored,none,60,68,60
+male,session B,high school,sponsored,none,62,55,54
+female,session C,some high school,self-financed,completed,29,40,44
+male,session B,some college,sponsored,completed,62,66,68
+female,session E,master's degree,sponsored,completed,94,99,100
+male,session E,some college,sponsored,completed,85,75,68
+male,session D,associate's degree,self-financed,none,77,78,73
+male,session A,high school,self-financed,none,53,58,44
+male,session E,some college,self-financed,none,93,90,83
+female,session C,associate's degree,sponsored,none,49,53,53
+female,session E,associate's degree,self-financed,none,73,76,78
+female,session C,bachelor's degree,self-financed,completed,66,74,81
+female,session D,associate's degree,sponsored,none,77,77,73
+female,session C,some high school,sponsored,none,49,63,56
+female,session D,some college,self-financed,none,79,89,86
+female,session C,associate's degree,sponsored,completed,75,82,90
+female,session A,bachelor's degree,sponsored,none,59,72,70
+female,session D,associate's degree,sponsored,completed,57,78,79
+male,session C,high school,self-financed,none,66,66,59
+female,session E,bachelor's degree,sponsored,completed,79,81,82
+female,session B,some high school,sponsored,none,57,67,72
+male,session A,bachelor's degree,sponsored,completed,87,84,87
+female,session D,some college,sponsored,none,63,64,67
+female,session B,some high school,self-financed,completed,59,63,64
+male,session A,bachelor's degree,self-financed,none,62,72,65
+male,session D,high school,sponsored,none,46,34,36
+male,session C,some college,sponsored,none,66,59,52
+male,session D,high school,sponsored,none,89,87,79
+female,session D,associate's degree,self-financed,completed,42,61,58
+male,session C,some college,sponsored,completed,93,84,90
+female,session E,some high school,sponsored,completed,80,85,85
+female,session D,some college,sponsored,none,98,100,99
+male,session D,master's degree,sponsored,none,81,81,84
+female,session B,some high school,sponsored,completed,60,70,74
+female,session B,associate's degree,self-financed,completed,76,94,87
+male,session C,associate's degree,sponsored,completed,73,78,72
+female,session C,associate's degree,sponsored,completed,96,96,99
+female,session C,high school,sponsored,none,76,76,74
+male,session E,associate's degree,self-financed,completed,91,73,80
+female,session C,some college,self-financed,none,62,72,70
+male,session D,some high school,self-financed,completed,55,59,59
+female,session B,some high school,self-financed,completed,74,90,88
+male,session C,high school,sponsored,none,50,48,42
+male,session B,some college,sponsored,none,47,43,41
+male,session E,some college,sponsored,completed,81,74,71
+female,session E,associate's degree,sponsored,completed,65,75,77
+male,session E,some high school,sponsored,completed,68,51,57
+female,session D,high school,self-financed,none,73,92,84
+male,session C,some college,sponsored,none,53,39,37
+female,session B,associate's degree,self-financed,completed,68,77,80
+male,session A,some high school,self-financed,none,55,46,43
+female,session C,some college,sponsored,completed,87,89,94
+male,session D,some high school,sponsored,none,55,47,44
+female,session E,some college,self-financed,none,53,58,57
+male,session C,master's degree,sponsored,none,67,57,59
+male,session C,associate's degree,sponsored,none,92,79,84
+female,session B,some college,self-financed,completed,53,66,73
+male,session D,associate's degree,sponsored,none,81,71,73
+male,session C,high school,self-financed,none,61,60,55
+male,session D,bachelor's degree,sponsored,none,80,73,72
+female,session A,associate's degree,self-financed,none,37,57,56
+female,session C,high school,sponsored,none,81,84,82
+female,session C,associate's degree,sponsored,completed,59,73,72
+male,session B,some college,self-financed,none,55,55,47
+male,session D,associate's degree,sponsored,none,72,79,74
+male,session D,high school,sponsored,none,69,75,71
+male,session C,some college,sponsored,none,69,64,68
+female,session C,bachelor's degree,self-financed,none,50,60,59
+male,session B,some college,sponsored,completed,87,84,86
+male,session D,some high school,sponsored,completed,71,69,68
+male,session E,some college,sponsored,none,68,72,65
+male,session C,master's degree,self-financed,completed,79,77,75
+female,session C,some high school,sponsored,completed,77,90,85
+male,session C,associate's degree,self-financed,none,58,55,53
+female,session E,associate's degree,sponsored,none,84,95,92
+male,session D,some college,sponsored,none,55,58,52
+male,session E,bachelor's degree,self-financed,completed,70,68,72
+female,session D,some college,self-financed,completed,52,59,65
+male,session B,some college,sponsored,completed,69,77,77
+female,session C,high school,self-financed,none,53,72,64
+female,session D,some high school,sponsored,none,48,58,54
+male,session D,some high school,sponsored,completed,78,81,86
+female,session B,high school,sponsored,none,62,62,63
+male,session D,some college,sponsored,none,60,63,59
+female,session B,high school,sponsored,none,74,72,72
+female,session C,high school,sponsored,completed,58,75,77
+male,session B,high school,sponsored,completed,76,62,60
+female,session D,some high school,sponsored,none,68,71,75
+male,session A,some college,self-financed,none,58,60,57
+male,session B,high school,sponsored,none,52,48,49
+male,session D,bachelor's degree,sponsored,none,75,73,74
+female,session B,some high school,self-financed,completed,52,67,72
+female,session C,bachelor's degree,self-financed,none,62,78,79
+male,session B,some college,sponsored,none,66,65,60
+female,session B,some high school,self-financed,none,49,58,55
+female,session B,high school,sponsored,none,66,72,70
+female,session C,some college,self-financed,none,35,44,43
+female,session A,some college,sponsored,completed,72,79,82
+male,session E,associate's degree,sponsored,completed,94,85,82
+female,session D,associate's degree,self-financed,none,46,56,57
+female,session B,master's degree,sponsored,none,77,90,84
+female,session B,high school,self-financed,completed,76,85,82
+female,session C,associate's degree,sponsored,completed,52,59,62
+male,session C,bachelor's degree,sponsored,completed,91,81,79
+female,session B,some high school,sponsored,completed,32,51,44
+female,session E,some high school,self-financed,none,72,79,77
+female,session B,some college,sponsored,none,19,38,32
+male,session C,associate's degree,self-financed,none,68,65,61
+female,session C,master's degree,self-financed,none,52,65,61
+female,session B,high school,sponsored,none,48,62,60
+female,session D,some college,self-financed,none,60,66,70
+male,session D,high school,self-financed,none,66,74,69
+male,session E,some high school,sponsored,completed,89,84,77
+female,session B,high school,sponsored,none,42,52,51
+female,session E,associate's degree,self-financed,completed,57,68,73
+male,session D,high school,sponsored,none,70,70,70
+female,session E,associate's degree,self-financed,none,70,84,81
+male,session E,some college,sponsored,none,69,60,54
+female,session C,associate's degree,sponsored,none,52,55,57
+male,session C,some high school,sponsored,completed,67,73,68
+male,session C,some high school,sponsored,completed,76,80,73
+female,session E,associate's degree,sponsored,none,87,94,95
+female,session B,some college,sponsored,none,82,85,87
+female,session C,some college,sponsored,none,73,76,78
+male,session A,some college,self-financed,none,75,81,74
+female,session D,some college,self-financed,none,64,74,75
+female,session E,high school,self-financed,none,41,45,40
+male,session C,high school,sponsored,none,90,75,69
+male,session B,bachelor's degree,sponsored,none,59,54,51
+male,session A,some high school,sponsored,none,51,31,36
+male,session A,high school,self-financed,none,45,47,49
+female,session C,master's degree,sponsored,completed,54,64,67
+male,session E,some high school,sponsored,completed,87,84,76
+female,session C,high school,sponsored,none,72,80,83
+male,session B,some high school,sponsored,completed,94,86,87
+female,session A,bachelor's degree,sponsored,none,45,59,64
+male,session D,bachelor's degree,self-financed,completed,61,70,76
+female,session B,high school,self-financed,none,60,72,68
+female,session C,some high school,sponsored,none,77,91,88
+female,session A,some high school,sponsored,completed,85,90,92
+female,session D,bachelor's degree,self-financed,none,78,90,93
+male,session E,some college,self-financed,completed,49,52,51
+female,session B,high school,self-financed,none,71,87,82
+female,session C,some high school,self-financed,none,48,58,52
+male,session C,high school,sponsored,none,62,67,58
+female,session C,associate's degree,self-financed,completed,56,68,70
+female,session C,some high school,sponsored,none,65,69,76
+female,session D,some high school,self-financed,completed,69,86,81
+male,session B,some high school,sponsored,none,68,54,53
+female,session A,some college,self-financed,none,61,60,57
+female,session C,bachelor's degree,self-financed,completed,74,86,89
+male,session A,bachelor's degree,sponsored,none,64,60,58
+female,session B,high school,sponsored,completed,77,82,89
+male,session B,some college,sponsored,none,58,50,45
+female,session C,high school,sponsored,completed,60,64,74
+male,session E,high school,sponsored,none,73,64,57
+female,session A,high school,sponsored,completed,75,82,79
+male,session B,associate's degree,self-financed,completed,58,57,53
+female,session C,associate's degree,sponsored,none,66,77,73
+female,session D,high school,self-financed,none,39,52,46
+male,session C,some high school,sponsored,none,64,58,51
+female,session B,high school,self-financed,completed,23,44,36
+male,session B,some college,self-financed,completed,74,77,76
+female,session D,some high school,self-financed,completed,40,65,64
+male,session E,master's degree,sponsored,none,90,85,84
+male,session C,master's degree,sponsored,completed,91,85,85
+male,session D,high school,sponsored,none,64,54,50
+female,session C,high school,sponsored,none,59,72,68
+male,session D,associate's degree,sponsored,none,80,75,69
+male,session C,master's degree,sponsored,none,71,67,67
+female,session A,high school,sponsored,none,61,68,63
+female,session E,some college,sponsored,none,87,85,93
+male,session E,some high school,sponsored,none,82,67,61
+male,session C,some high school,sponsored,none,62,64,55
+female,session B,bachelor's degree,sponsored,none,97,97,96
+male,session B,some college,self-financed,none,75,68,65
+female,session C,bachelor's degree,sponsored,none,65,79,81
+male,session B,high school,sponsored,completed,52,49,46
+male,session C,associate's degree,self-financed,none,87,73,72
+female,session C,associate's degree,sponsored,none,53,62,53
+female,session E,master's degree,self-financed,none,81,86,87
+male,session D,bachelor's degree,self-financed,completed,39,42,38
+female,session C,some college,sponsored,completed,71,71,80
+male,session C,associate's degree,sponsored,none,97,93,91
+male,session D,some college,sponsored,completed,82,82,88
+male,session C,high school,self-financed,none,59,53,52
+male,session B,associate's degree,sponsored,none,61,42,41
+male,session E,associate's degree,self-financed,completed,78,74,72
+male,session C,associate's degree,self-financed,none,49,51,51
+male,session B,high school,sponsored,none,59,58,47
+female,session C,some college,sponsored,completed,70,72,76
+male,session B,associate's degree,sponsored,completed,82,84,78
+male,session E,associate's degree,self-financed,none,90,90,82
+female,session C,bachelor's degree,self-financed,none,43,62,61
+male,session C,some college,self-financed,none,80,64,66
+male,session D,some college,sponsored,none,81,82,84
+male,session C,some high school,sponsored,none,57,61,54
+female,session D,some high school,sponsored,none,59,72,80
+female,session D,associate's degree,sponsored,none,64,76,74
+male,session C,bachelor's degree,sponsored,completed,63,64,66
+female,session E,bachelor's degree,sponsored,completed,71,70,70
+female,session B,high school,self-financed,none,64,73,71
+male,session D,bachelor's degree,self-financed,none,55,46,44
+female,session E,associate's degree,sponsored,none,51,51,54
+female,session C,associate's degree,sponsored,completed,62,76,80
+female,session E,associate's degree,sponsored,completed,93,100,95
+male,session C,high school,self-financed,none,54,72,59
+female,session D,some college,self-financed,none,69,65,74
+male,session D,high school,self-financed,none,44,51,48
+female,session E,some college,sponsored,completed,86,85,91
+female,session E,associate's degree,sponsored,none,85,92,85
+female,session A,master's degree,self-financed,none,50,67,73
+male,session D,some high school,sponsored,completed,88,74,75
+female,session E,associate's degree,sponsored,none,59,62,69
+female,session E,some high school,self-financed,none,32,34,38
+male,session B,high school,self-financed,none,36,29,27
+female,session B,some high school,self-financed,completed,63,78,79
+male,session D,associate's degree,sponsored,completed,67,54,63
+female,session D,some high school,sponsored,completed,65,78,82
+male,session D,master's degree,sponsored,none,85,84,89
+female,session C,master's degree,sponsored,none,73,78,74
+female,session A,high school,self-financed,completed,34,48,41
+female,session D,bachelor's degree,self-financed,completed,93,100,100
+female,session D,some high school,self-financed,none,67,84,84
+male,session D,some college,sponsored,none,88,77,77
+male,session B,high school,sponsored,none,57,48,51
+female,session D,some college,sponsored,completed,79,84,91
+female,session C,bachelor's degree,self-financed,none,67,75,72
+male,session E,bachelor's degree,sponsored,completed,70,64,70
+male,session D,bachelor's degree,self-financed,none,50,42,48
+female,session A,some college,sponsored,none,69,84,82
+female,session C,bachelor's degree,sponsored,completed,52,61,66
+female,session C,bachelor's degree,self-financed,completed,47,62,66
+female,session B,associate's degree,self-financed,none,46,61,55
+female,session E,some college,sponsored,none,68,70,66
+male,session E,bachelor's degree,sponsored,completed,100,100,100
+female,session C,high school,sponsored,none,44,61,52
+female,session C,associate's degree,sponsored,completed,57,77,80
+male,session B,some college,sponsored,completed,91,96,91
+male,session D,high school,self-financed,none,69,70,67
+female,session C,high school,self-financed,none,35,53,46
+male,session D,high school,sponsored,none,72,66,66
+female,session B,associate's degree,self-financed,none,54,65,65
+male,session D,high school,self-financed,none,74,70,69
+male,session E,some high school,sponsored,completed,74,64,60
+male,session E,associate's degree,self-financed,none,64,56,52
+female,session D,high school,self-financed,completed,65,61,71
+male,session E,associate's degree,self-financed,completed,46,43,44
+female,session C,some high school,self-financed,none,48,56,51
+male,session C,some college,self-financed,completed,67,74,70
+male,session D,some college,self-financed,none,62,57,62
+male,session D,associate's degree,self-financed,completed,61,71,73
+male,session C,bachelor's degree,self-financed,completed,70,75,74
+male,session C,associate's degree,sponsored,completed,98,87,90
+male,session D,some college,self-financed,none,70,63,58
+male,session A,associate's degree,sponsored,none,67,57,53
+female,session E,high school,self-financed,none,57,58,57
+male,session D,some college,sponsored,completed,85,81,85
+male,session D,some high school,sponsored,completed,77,68,69
+male,session C,master's degree,self-financed,completed,72,66,72
+female,session D,master's degree,sponsored,none,78,91,96
+male,session C,high school,sponsored,none,81,66,64
+male,session A,some high school,self-financed,completed,61,62,61
+female,session B,high school,sponsored,none,58,68,61
+female,session C,associate's degree,sponsored,none,54,61,58
+male,session B,high school,sponsored,none,82,82,80
+female,session D,some college,self-financed,none,49,58,60
+male,session B,some high school,self-financed,completed,49,50,52
+female,session E,high school,self-financed,completed,57,75,73
+male,session E,high school,sponsored,none,94,73,71
+female,session D,some college,sponsored,completed,75,77,83
+female,session E,some high school,self-financed,none,74,74,72
+male,session C,high school,sponsored,completed,58,52,54
+female,session C,some college,sponsored,none,62,69,69
+male,session E,associate's degree,sponsored,none,72,57,62
+male,session C,some college,sponsored,none,84,87,81
+female,session D,master's degree,sponsored,none,92,100,100
+female,session D,high school,sponsored,none,45,63,59
+male,session C,high school,sponsored,none,75,81,71
+female,session A,some college,sponsored,none,56,58,64
+female,session D,some high school,self-financed,none,48,54,53
+female,session E,associate's degree,sponsored,none,100,100,100
+female,session C,some high school,self-financed,completed,65,76,75
+male,session D,some college,sponsored,none,72,57,58
+female,session D,some college,sponsored,none,62,70,72
+male,session A,some high school,sponsored,completed,66,68,64
+male,session C,some college,sponsored,none,63,63,60
+female,session E,associate's degree,sponsored,none,68,76,67
+female,session B,bachelor's degree,sponsored,none,75,84,80
+female,session D,bachelor's degree,sponsored,none,89,100,100
+male,session C,some high school,sponsored,completed,78,72,69
+female,session A,high school,self-financed,completed,53,50,60
+female,session D,some college,self-financed,none,49,65,61
+female,session A,some college,sponsored,none,54,63,67
+female,session C,some college,sponsored,completed,64,82,77
+male,session B,some college,self-financed,completed,60,62,60
+male,session C,associate's degree,sponsored,none,62,65,58
+male,session D,high school,sponsored,completed,55,41,48
+female,session C,associate's degree,sponsored,none,91,95,94
+female,session B,high school,self-financed,none,8,24,23
+male,session D,some high school,sponsored,none,81,78,78
+male,session B,some high school,sponsored,completed,79,85,86
+female,session A,some college,sponsored,completed,78,87,91
+female,session C,some high school,sponsored,none,74,75,82
+male,session A,high school,sponsored,none,57,51,54
+female,session C,associate's degree,sponsored,none,40,59,51
+male,session E,some high school,sponsored,completed,81,75,76
+female,session A,some high school,self-financed,none,44,45,45
+female,session D,some college,self-financed,completed,67,86,83
+male,session E,high school,self-financed,completed,86,81,75
+female,session B,some high school,sponsored,completed,65,82,78
+female,session D,associate's degree,self-financed,none,55,76,76
+female,session D,bachelor's degree,self-financed,none,62,72,74
+male,session A,high school,sponsored,none,63,63,62
+female,session E,master's degree,sponsored,completed,88,99,95
+male,session C,high school,self-financed,none,62,55,55
+female,session C,high school,self-financed,completed,59,71,65
+female,session D,some college,sponsored,completed,68,78,77
+female,session D,some college,self-financed,none,77,86,86
